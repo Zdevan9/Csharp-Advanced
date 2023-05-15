@@ -1,0 +1,15 @@
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\bin\Debug\net6.0\Class 4 Homework.exe
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\bin\Debug\net6.0\Class 4 Homework.deps.json
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\bin\Debug\net6.0\Class 4 Homework.runtimeconfig.json
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\bin\Debug\net6.0\Class 4 Homework.dll
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\bin\Debug\net6.0\Class 4 Homework.pdb
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.csproj.AssemblyReference.cache
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.AssemblyInfoInputs.cache
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.AssemblyInfo.cs
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.csproj.CoreCompileInputs.cache
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.dll
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\refint\Class 4 Homework.dll
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.pdb
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\Class 4 Homework.genruntimeconfig.cache
+C:\Users\Zdevan\C# Advanced\Class 4 Homework\Class 4 Homework\obj\Debug\net6.0\ref\Class 4 Homework.dll
