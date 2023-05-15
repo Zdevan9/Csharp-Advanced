@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ObJD80wAQdpbcja/gkaRIiDgHUrCc7PGC6SWlH8oxkg0cno0lfPH+IDoQ120mctbgCufToRGFyC8TfcTo3a3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\TimeTrack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zdevan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+C:\Users\Zdevan\C# Advanced\TimeTrack\bin\Debug\net6.0\TimeTrack.exe
+C:\Users\Zdevan\C# Advanced\TimeTrack\bin\Debug\net6.0\TimeTrack.deps.json
+C:\Users\Zdevan\C# Advanced\TimeTrack\bin\Debug\net6.0\TimeTrack.runtimeconfig.json
+C:\Users\Zdevan\C# Advanced\TimeTrack\bin\Debug\net6.0\TimeTrack.dll
+C:\Users\Zdevan\C# Advanced\TimeTrack\bin\Debug\net6.0\TimeTrack.pdb
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.csproj.AssemblyReference.cache
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.AssemblyInfoInputs.cache
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.AssemblyInfo.cs
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.csproj.CoreCompileInputs.cache
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.dll
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\refint\TimeTrack.dll
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.pdb
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.genruntimeconfig.cache
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\ref\TimeTrack.dll
+C:\Users\Zdevan\C# Advanced\TimeTrack\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zdevan\C# Advanced\TimeTrack\obj\Debug\net6.0\TimeTrack.csproj.CopyComplete
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\bin\Debug\net6.0\TimeTrack.exe
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\bin\Debug\net6.0\TimeTrack.deps.json
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\bin\Debug\net6.0\TimeTrack.runtimeconfig.json
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\bin\Debug\net6.0\TimeTrack.dll
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\bin\Debug\net6.0\TimeTrack.pdb
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.csproj.AssemblyReference.cache
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.AssemblyInfoInputs.cache
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.AssemblyInfo.cs
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.csproj.CoreCompileInputs.cache
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.csproj.CopyComplete
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.dll
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\refint\TimeTrack.dll
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.pdb
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\TimeTrack.genruntimeconfig.cache
+C:\Users\Zdevan\OneDrive\Desktop\TimeTrack\obj\Debug\net6.0\ref\TimeTrack.dll
