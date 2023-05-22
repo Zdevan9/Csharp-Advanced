@@ -32,7 +32,7 @@ namespace TimeTrack.Models
             switch (input)
             {
                 case 1:
-                    string json1 = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    string json1 = File.ReadAllText("users.json");
                     List<UserDB.User> users1 = JsonConvert.DeserializeObject<List<UserDB.User>>(json1);
                     string username1 = Environment.UserName;
                     UserDB.User currentUser1 = users1.Find(u => u.Username == username1);
@@ -41,14 +41,14 @@ namespace TimeTrack.Models
                     string newpassword = Console.ReadLine();
                     currentUser1.Password = newpassword;
                     string updatedJson = JsonConvert.SerializeObject(users1, Formatting.Indented);
-                    File.WriteAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json", updatedJson);
+                    File.WriteAllText("users.json", updatedJson);
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"You sucesfully changed the password to: {newpassword}");
                     Console.ResetColor();
                     break;
 
                 case 2:
-                    string json2 = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    string json2 = File.ReadAllText("users.json");
                     List<UserDB.User> users2 = JsonConvert.DeserializeObject<List<UserDB.User>>(json2);
                     string username2 = Environment.UserName;
                     UserDB.User currentUser2 = users2.Find(u => u.Username == username2);
@@ -57,14 +57,14 @@ namespace TimeTrack.Models
                     string firstname = Console.ReadLine();
                     currentUser2.FirstName = firstname;
                     string updatedJson2 = JsonConvert.SerializeObject(users2, Formatting.Indented);
-                    File.WriteAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json", updatedJson2);
+                    File.WriteAllText("users.json", updatedJson2);
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"You sucesfully changed the First Name to: {firstname}");
                     Console.ResetColor();
                     break;
 
                 case 3:
-                    string json3 = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    string json3 = File.ReadAllText("users.json");
                     List<UserDB.User> users3 = JsonConvert.DeserializeObject<List<UserDB.User>>(json3);
                     string username3 = Environment.UserName;
                     UserDB.User currentUser3 = users3.Find(u => u.Username == username3);
@@ -73,7 +73,7 @@ namespace TimeTrack.Models
                     string lastname = Console.ReadLine();
                     currentUser3.LastName = lastname;
                     string updatedJson3 = JsonConvert.SerializeObject(users3, Formatting.Indented);
-                    File.WriteAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json", updatedJson3);
+                    File.WriteAllText("users.json", updatedJson3);
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"You sucesfully changed the Last Name to: {lastname}");
                     Console.ResetColor();
