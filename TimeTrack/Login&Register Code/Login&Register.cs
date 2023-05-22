@@ -8,7 +8,7 @@ namespace FitApp.Login_Code
 {
     public class Login
     {
-        private const string UserDatabaseFilePath = "C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json";
+        private const string UserDatabaseFilePath = "users.json";
         private UserDatabase userDatabase;
         public void LoginRegister()
         {
@@ -31,7 +31,7 @@ namespace FitApp.Login_Code
                     string password = Console.ReadLine();
 
                     // TODO: validate password
-                    //string fileContents = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    //string fileContents = File.ReadAllText("users.json");
                     //Console.WriteLine(fileContents);
 
                     Console.ForegroundColor = ConsoleColor.Green;
