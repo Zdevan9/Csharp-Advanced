@@ -30,7 +30,7 @@ namespace TimeTrack.Models
             switch (input)
             {
                 case 1:
-                    string json1 = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    string json1 = File.ReadAllText("users.json");
                     List<UserDB.User> users1 = JsonConvert.DeserializeObject<List<UserDB.User>>(json1);
                     string username1 = Environment.UserName;
                     UserDB.User currentUser1 = users1.Find(u => u.Username == username1);
@@ -38,7 +38,7 @@ namespace TimeTrack.Models
                     break;
 
                 case 2:
-                    string json2 = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    string json2 = File.ReadAllText("users.json");
                     List<UserDB.User> users = JsonConvert.DeserializeObject<List<UserDB.User>>(json2);
                     string username2 = Environment.UserName;
                     UserDB.User currentUser2 = users.Find(u => u.Username == username2);
@@ -46,7 +46,7 @@ namespace TimeTrack.Models
                     break;
 
                 case 3:
-                    string json3 = File.ReadAllText("C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json");
+                    string json3 = File.ReadAllText("users.json");
                     List<UserDB.User> users3 = JsonConvert.DeserializeObject<List<UserDB.User>>(json3);
                     string username3 = Environment.UserName;
                     UserDB.User currentUser3 = users3.Find(u => u.Username == username3);
