@@ -41,7 +41,7 @@ namespace TimeTrack.DataBases
 
         public class UserDatabase
         {
-            private const string UserDatabaseFilePath = "C:\\Users\\Zdevan\\OneDrive\\Desktop\\TimeTrack\\users.json";
+            private const string UserDatabaseFilePath = "users.json";
             private List<User> users;
 
             public UserDatabase()
